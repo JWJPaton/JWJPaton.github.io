@@ -2,8 +2,3 @@
 
 This is just a test to start creating a webpage with stuff in it
 
-[./test.html](./test.html)
-
-[./test.md](./test.md)
-
-[test2](https://JWJPaton.github.io/test)
