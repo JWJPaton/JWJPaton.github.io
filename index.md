@@ -2,7 +2,7 @@
 
 This is just a test to start creating a webpage with stuff in it
 
-[./test](./test.html)
+[./test.html](./test.html)
 
 [./test.md](./test.md)
 
